@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-28T02:33:39Z",
+  "_captured_run_id": "r_3b2871c1c77b4e608ad0c6380c32b2d2",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 60 rows from DATALINES.",
+    "NOTE: Option TITLE changed to Regression Model 1: Full Model.",
+    "NOTE: PROC REG ODS Graphics generated."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

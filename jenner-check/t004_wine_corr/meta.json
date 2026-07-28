@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_wine_corr",
+  "source_file": "wine_code.sas",
+  "source_blob_sha": "39d4b288e53fca0b6e87c9ae73b369908ed19908",
+  "source_commit": "59f2a32792d593abd079068b247feac493d705e5",
+  "notes": "Stage 3 association. PROC CORR over the author's full 12-variable var list (quality + 11 predictors), Pearson matrix, over the 60-row wine sample."
+}
