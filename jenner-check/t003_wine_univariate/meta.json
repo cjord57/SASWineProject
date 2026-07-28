@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_wine_univariate",
+  "source_file": "wine_code.sas",
+  "source_blob_sha": "39d4b288e53fca0b6e87c9ae73b369908ed19908",
+  "source_commit": "59f2a32792d593abd079068b247feac493d705e5",
+  "notes": "Stage 3 distribution. PROC UNIVARIATE normal with histogram / normal(mu=est sigma=est) on var quality, over the 60-row wine sample."
+}

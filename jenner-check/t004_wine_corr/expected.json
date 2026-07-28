@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-28T02:33:39Z",
+  "_captured_run_id": "r_cbc8c560a278480f99afbe62adeffa93",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 60 rows from DATALINES.",
+    "NOTE: Option TITLE changed to Correlation Matrix for All Variables - to See Association.",
+    "NOTE: PROC CORR ODS Graphics generated."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

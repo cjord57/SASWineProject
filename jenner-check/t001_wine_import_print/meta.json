@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_wine_import_print",
+  "source_file": "wine_code.sas",
+  "source_blob_sha": "39d4b288e53fca0b6e87c9ae73b369908ed19908",
+  "source_commit": "59f2a32792d593abd079068b247feac493d705e5",
+  "notes": "Stage 1-2 (data load + PROC PRINT). Loads a 60-row sample of the project's own wine_quality.txt (10 rows per quality level 3-8) as inline DATALINES and PROC PRINTs it. Original imports the tab-delimited file via PROC IMPORT; here the rows are inlined so the bundle is self-contained."
+}
